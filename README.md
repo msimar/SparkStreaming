@@ -15,6 +15,13 @@ Requirements
 - Akka 2.2-M1 ( sbt : "com.typesafe.akka" % "akka-actor_2.10" % "2.2-M1" )
 - Socko Web Server 0.4.2 ( sbt : "org.mashupbots.socko" %  "socko-webserver_2.10" % "0.4.2" )
 
+Configuration
+==============
+
+- Configure run.sh script as per your directory structure. 
+- Configure build.sbt as per your project configuration. 
+- Set Apache Spark directory as SPARK_HOME. 
+
 Usage
 ==============
 

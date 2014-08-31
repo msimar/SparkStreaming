@@ -14,6 +14,7 @@ Requirements
 - Apache Spark Streaming Twitter 1.0.2 ( sbt : "org.apache.spark" %% "spark-streaming-twitter" % "1.0.2")
 - Akka 2.2-M1 ( sbt : "com.typesafe.akka" % "akka-actor_2.10" % "2.2-M1" )
 - Socko Web Server 0.4.2 ( sbt : "org.mashupbots.socko" %  "socko-webserver_2.10" % "0.4.2" )
+- Chart.js ( http://www.chartjs.org/ ) 
 
 Configuration
 ==============
